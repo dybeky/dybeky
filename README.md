@@ -26,22 +26,6 @@
 
 <div align="center">
 
-## About
-
-</div>
-
-```yaml
-name:       dybeky
-role:       Software Developer
-focus:      Clean code · thoughtful design · shipping fast
-mindset:    "Make it work, make it right, make it elegant."
-status:     Open to interesting problems
-```
-
-<br>
-
-<div align="center">
-
 ## Tech &amp; Tools
 
 <br>
