@@ -13,11 +13,11 @@
 <br><br>
 
 <!-- Quick links -->
-<a href="mailto:dybekych@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 <a href="https://github.com/dybeky">
   <img src="https://img.shields.io/badge/GitHub-4A00E0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://t.me/dybeky">
+  <img src="https://img.shields.io/badge/Telegram-8E2DE2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
 </div>
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-## ⟡ &nbsp; About
+## About
 
 </div>
 
@@ -42,7 +42,7 @@ status:     Open to interesting problems
 
 <div align="center">
 
-## ⟡ &nbsp; Tech &amp; Tools
+## Tech &amp; Tools
 
 <br>
 
@@ -54,7 +54,6 @@ status:     Open to interesting problems
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -63,33 +62,16 @@ status:     Open to interesting problems
 
 <div align="center">
 
-## ⟡ &nbsp; GitHub Stats
+## Let's Connect
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dybeky&show_icons=true&hide_border=true&title_color=8E2DE2&icon_color=4A00E0&text_color=808080&bg_color=00000000" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybeky&layout=compact&hide_border=true&title_color=8E2DE2&text_color=808080&bg_color=00000000" />
+<sub>Got an idea, a question, or just want to say hi? My DMs are always open.</sub>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dybeky&hide_border=true&background=00000000&stroke=8E2DE2&ring=4A00E0&fire=8E2DE2&currStreakLabel=8E2DE2" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## ⟡ &nbsp; Let's Connect
-
-<br>
-
-<sub>Got an idea, a question, or just want to say hi? My inbox is always open.</sub>
-
-<br><br>
-
-<a href="mailto:dybekych@gmail.com">
-  <img src="https://img.shields.io/badge/Reach%20out-8E2DE2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" />
+<a href="https://t.me/dybeky">
+  <img src="https://img.shields.io/badge/Message%20me-8E2DE2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
 <br><br>
